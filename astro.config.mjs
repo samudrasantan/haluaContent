@@ -4,5 +4,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 
     site: 'https://samudrasantan.github.io',
-  base: 'haluaContent',
+  base: '/haluaContent',
 });
